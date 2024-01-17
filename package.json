@@ -1,0 +1,14 @@
+{
+  "name": "articles",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "leow93",
+  "license": "MIT",
+  "scripts": {
+    "format": "pnpm prettier --write \"**/*.md\""
+  },
+  "devDependencies": {
+    "lefthook": "^1.5.7",
+    "prettier": "^3.2.4"
+  }
+}
