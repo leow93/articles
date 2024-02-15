@@ -14,6 +14,7 @@ I'll try to consistently tag articles with various themes that crop up, in order
 
 ## January 2024
 
-| Title                                              | Author    | Tags                                                      |
-| -------------------------------------------------- | --------- | --------------------------------------------------------- |
-| [Work is work](https://codahale.com/work-is-work/) | Coda Hale | organisation_design,work_capacity,contention,queue_theory |
+| Title                                                                                               | Author        | Tags                                                      |
+| --------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------------------- |
+| [Work is work](https://codahale.com/work-is-work/)                                                  | Coda Hale     | organisation_design,work_capacity,contention,queue_theory |
+| [Why we can't have nice software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html) | Andrew Kelley | blockchain,waste,profit                                   |
