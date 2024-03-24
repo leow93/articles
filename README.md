@@ -1,3 +1,5 @@
+ARCHIVED. I decided to keep track of these on my website: https://lwheelan.co.uk/reading/
+
 # articles
 
 Abysmal as I am at organising bookmarks in browsers and keeping a list of articles I'd like to come back to,
